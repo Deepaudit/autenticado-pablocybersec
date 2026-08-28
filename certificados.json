@@ -1,0 +1,407 @@
+{
+  "version": "1.0",
+  "brand": "PabloCyberSec",
+  "purpose": "Validação pública de autenticidade de certificados",
+  "codes": [
+    {
+      "code": "PCS-EHCS-2026-0001",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0002",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0003",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0004",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0005",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0006",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0007",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0008",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0009",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0010",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0011",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0012",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0013",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0014",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0015",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0016",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0017",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0018",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0019",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0020",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0021",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0022",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0023",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0024",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0025",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0026",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0027",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0028",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0029",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0030",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0031",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0032",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0033",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0034",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0035",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0036",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0037",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0038",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0039",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0040",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0041",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0042",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0043",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0044",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0045",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0046",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0047",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0048",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0049",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0050",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0051",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0052",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0053",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0054",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0055",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0056",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0057",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0058",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0059",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0060",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0061",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0062",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0063",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0064",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0065",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0066",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0067",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0068",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0069",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0070",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0071",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0072",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0073",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0074",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0075",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0076",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0077",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0078",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0079",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0080",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0081",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0082",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0083",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0084",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0085",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0086",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0087",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0088",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0089",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0090",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0091",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0092",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0093",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0094",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0095",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0096",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0097",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0098",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0099",
+      "name": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0100",
+      "name": ""
+    }
+  ]
+}
