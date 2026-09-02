@@ -23,6 +23,195 @@
       "course": "Ethical Hacking e Cybersecurity",
       "hours": "100h completed",
       "topic": "Web Application Exploitation"
+    },
+    {
+      "code": "PCS-EHCS-2026-0004",
+      "name": "Lucas Souza",
+      "course": "Ethical Hacking e Cybersecurity",
+      "hours": "40h",
+      "topic": "Network Penetration Testing"
+    },
+    {
+      "code": "PCS-EHCS-2026-0005",
+      "name": "Beatriz Lima",
+      "course": "Ethical Hacking e Cybersecurity",
+      "hours": "60h",
+      "topic": "Active Directory Exploitation"
+    },
+    {
+      "code": "PCS-EHCS-2026-0006",
+      "name": "Matheus Costa",
+      "course": "Ethical Hacking e Cybersecurity",
+      "hours": "40h",
+      "topic": "API Security & OWASP Top 10"
+    },
+    {
+      "code": "PCS-EHCS-2026-0007",
+      "name": "Larissa Mendes",
+      "course": "Ethical Hacking e Cybersecurity",
+      "hours": "80h",
+      "topic": "Infrastructure Auditing"
+    },
+    {
+      "code": "PCS-EHCS-2026-0008",
+      "name": "Rafael Rocha",
+      "course": "Ethical Hacking e Cybersecurity",
+      "hours": "40h",
+      "topic": "Linux Privilege Escalation"
+    },
+    {
+      "code": "PCS-EHCS-2026-0009",
+      "name": "Camila Duarte",
+      "course": "Ethical Hacking e Cybersecurity",
+      "hours": "100h completed",
+      "topic": "Red Team Operations"
+    },
+    {
+      "code": "PCS-EHCS-2026-0010",
+      "name": "Thiago Martins",
+      "course": "Ethical Hacking e Cybersecurity",
+      "hours": "40h",
+      "topic": "Web Application Exploitation"
+    },
+    {
+      "code": "PCS-EHCS-2026-0011",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0012",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0013",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0014",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0015",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0016",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0017",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0018",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0019",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0020",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0021",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0022",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0023",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0024",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0025",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0026",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0027",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0028",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0029",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
+    },
+    {
+      "code": "PCS-EHCS-2026-0030",
+      "name": "",
+      "course": "",
+      "hours": "",
+      "topic": ""
     }
   ]
 }
