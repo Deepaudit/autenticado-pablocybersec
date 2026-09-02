@@ -32,10 +32,13 @@ function validate(code) {
   const found = records.find(x => norm(x.code) === code);
   
   if (found && String(found.name || "").trim() !== "") {
-    let html = `<p><b>Nome:</b> ${esc(found.name)}</p><p><b>Código:</b> <span>${esc(found.code)}</span></p>`;
+    let html = `<p><b>Nome:</b> ${esc(found.name)}</p>` +
+               `<p><b>Código:</b> <span>${esc(found.code)}</span></p>`;
+    
     if (found.course) html += `<p><b>Formação:</b> ${esc(found.course)}</p>`;
     if (found.hours) html += `<p><b>Carga Horária:</b> ${esc(found.hours)}</p>`;
     if (found.topic) html += `<p><b>Tópico:</b> ${esc(found.topic)}</p>`;
+    
     show("valid", "Certificado Válido", html);
   } else {
     show("invalid", "Certificado Inválido", `<p>Nenhum registro ativo foi encontrado para o código <b>${esc(code)}</b>.</p>`);
