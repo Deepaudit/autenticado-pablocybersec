@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pablo Cybersec | Autenticação de Certificados</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<canvas id="bg" aria-hidden="true"></canvas>
+<div class="grid" aria-hidden="true"></div>
+
+<header class="top">
+  <div class="brand">
+    <svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true"><path d="M16 2 4 7v9c0 7 5 12 12 14 7-2 12-7 12-14V7z" fill="none" stroke="#e11d2e" stroke-width="2"/><path d="M11 16l4 4 7-8" fill="none" stroke="#2f7bff" stroke-width="2.5"/></svg>
+    <span>Pablo <b>Cybersec</b></span>
+  </div>
+  <span class="online"><i></i> Sistema online</span>
+</header>
+
+<main>
+  <section class="hero">
+    <h1 class="glitch" data-text="Autenticação de certificado">Autenticação de certificado</h1>
+    <p>Confirme se um certificado emitido pela Pablo Cybersec é verdadeiro. Digite o código impresso no documento.</p>
+
+    <div class="panel" id="panel">
+      <label for="code">Código do certificado</label>
+      <div class="field">
+        <input id="code" type="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="PCS-EHCS-2026-0001" maxlength="24">
+        <button id="btn" type="button">Verificar</button>
+      </div>
+      <small>Formato: PCS-<em>TIPO</em>-ANO-NÚMERO, de 0001 até 1000.</small>
+      <div class="scan" id="scan"></div>
+    </div>
+
+    <div id="result" class="result" role="status" aria-live="polite" hidden></div>
+  </section>
+</main>
+
+<footer>© 2026 Pablo Cybersec. Todos os direitos reservados.</footer>
+<script src="app.js"></script>
+</body>
+</html>
